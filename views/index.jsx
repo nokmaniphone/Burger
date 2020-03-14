@@ -36,9 +36,6 @@ const Index = props => {
         </div>
       </div>
 
-
-
-
     </Html>
   )
 }
