@@ -84,6 +84,6 @@ document.addEventListener('click', event => {
     }
   }
 
-
 })
+
 renderBurgers()
