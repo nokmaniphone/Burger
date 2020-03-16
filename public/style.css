@@ -1,0 +1,41 @@
+.title {
+  text-align: center;
+}
+
+.imageStyle {
+  width: 200 px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  max-width: 10%;
+  height: auto;
+}
+
+body {
+  background-color:rgb(39, 104, 64);
+}
+
+.buttonStyle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.formHead {
+  display: block;
+  text-align: center;
+}
+
+.burgerHead {
+  text-align: center;
+}
+
+.spanStyle {
+  float: right;
+}
+
+.message {
+  color: red;
+  text-align: center;
+}
