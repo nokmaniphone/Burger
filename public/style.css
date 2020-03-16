@@ -3,6 +3,7 @@
 }
 
 .imageStyle {
+  width: 200 px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -12,7 +13,7 @@
 }
 
 body {
-  background-color: #24939e;
+  background-color:rgb(39, 104, 64);
 }
 
 .buttonStyle {

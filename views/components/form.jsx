@@ -4,7 +4,7 @@ const Form = () => {
   return (
     <form>
       <div className="form-group">
-        <label className="formHead" htmlFor="burgerInput">Enter a burger you would like to eat below!</label>
+        <label className="formHead" htmlFor="burgerInput">Below, select the burger you would like to eat!</label>
         <textarea className="form-control" id="burgerInput" rows="3"></textarea>
         <br></br>
         <div className="form-group form-check">
